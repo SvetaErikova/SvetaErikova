@@ -4,6 +4,6 @@
 
 ### Обо мне :
 
-- :computer: Я начинающий Frontend-разработчик
+- :computer: Frontend-разработчик
 - :woman_student: Работаю программистом в веб-студии
 - :books: 
